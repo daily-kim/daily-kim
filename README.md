@@ -1,6 +1,5 @@
 ### Hi there 👋
 ![daily-kim's github stats](https://github-readme-stats.vercel.app/api?username=daily-kim&show_icons=true&count_private=true)
-<!--
 **daily-kim/daily-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
